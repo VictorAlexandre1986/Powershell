@@ -1,0 +1,1 @@
+dism /online /Add-Driver /Driver:C:\diretorio /Recurse
