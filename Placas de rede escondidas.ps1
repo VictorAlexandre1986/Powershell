@@ -1,0 +1,1 @@
+﻿Get-NetAdapter -Name * -IncludeHidden
