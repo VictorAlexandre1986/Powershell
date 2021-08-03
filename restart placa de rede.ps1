@@ -1,0 +1,1 @@
+﻿Restart-NetAdapter -Name "Ethernet 2"
