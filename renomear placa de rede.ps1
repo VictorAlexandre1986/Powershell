@@ -1,0 +1,1 @@
+﻿Rename-NetAdapter -Name "Ethernet" -NewName "ManagementAdapter"
