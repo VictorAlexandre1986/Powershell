@@ -1,0 +1,1 @@
+﻿netsh wlan connect ssid="YOURSSID" key="YOURPW"
