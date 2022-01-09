@@ -1,0 +1,1 @@
+﻿ps | sort –p ws | select –last 10
